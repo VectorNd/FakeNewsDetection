@@ -1,0 +1,85 @@
+.rs-input-group {
+  margin: 30px;
+}
+
+.rs-btn-primary {
+  margin: 20px;
+}
+
+body {
+  /* color: #ffffff */
+}
+
+.container {
+  margin-top: 75px;
+  max-height: none;
+  height: 100vh;
+}
+.dark {
+  background-color: #1F2937;
+  color: #ffffff;
+  }
+
+  .dark .bg-white {
+  background-color: #111827;
+  }
+
+  .dark .text-gray-900 {
+  color: #ffffff;
+  }
+  
+
+  .toggle-label {
+    display: block;
+    width: 2.5rem;
+    height: 1.5rem;
+    cursor: pointer;
+    background-color: #ffffff;
+    border-radius: 0.75rem;
+    position: relative;
+    transition: background 0.2s ease-in-out;
+  }
+
+  .toggle-label:before {
+    content: '';
+    position: absolute;
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    background-color: white;
+    top: 0.25rem;
+    left: 0.25rem;
+    transition: transform 0.2s ease-in-out;
+  }
+
+  #dark-mode-switch:checked + .toggle-label {
+    background-color: #60a5fa;
+  }
+
+  #dark-mode-switch:checked + .toggle-label:before {
+    transform: translateX(1rem);
+  }
+
+  #feedback-container {
+    width: 100%;
+    height: 300px;
+    overflow: auto;
+  }
+
+  #input-column {
+    float: left;
+    width: 50%;
+  }
+
+  #feedback-column {
+    float: right;
+    width: 50%;
+    height: 100%;
+    overflow: auto;
+
+  }
+
+
+  @import "rsuite/dist/rsuite.css";
+
+#root{ padding: 10px; }
