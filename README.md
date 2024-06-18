@@ -41,6 +41,8 @@ Here are some key features of the Website :
 5. Make sure you have all the dependencies installed
    ```
    > pip install -r requirements.txt
+   > pip install string urllib joblib nltk
+   > pip install numpy flask flask_cors 
    ```
 
 6. You are good to go now for starting the backend server
