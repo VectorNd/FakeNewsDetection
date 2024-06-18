@@ -94,5 +94,9 @@ The file structure is the following
 |   +-- package-lock.json
 |   +-- package.json
 +-- README.md 
-``` 
+```
+
+![](https://github.com/VectorNd/FakeNewsDetection/blob/main/Home.png)
+![](https://github.com/VectorNd/FakeNewsDetection/blob/main/Detection.png)
+
 
