@@ -50,10 +50,7 @@ Here are some key features of the Website :
 
 8. Now the backend server starts running on the localhost http://127.0.0.1:5000 
 
-9. Now come out the backend folder
-   ```
-   > cd ..
-   ```
+9. Now add another new terminal window . 
 
 10. Go inside the Frontend folder
    ```
