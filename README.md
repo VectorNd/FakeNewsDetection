@@ -42,11 +42,6 @@ Here are some key features of the Website :
    ```
    > pip install -r requirements.txt
    ```
-   If there is any error , then install dependencies using this -
-   ```
-   > pip install string urllib joblib
-   > pip install flask nltk pickle numpy re os csv flask_cors torch transformers
-   ```
 
 7. You are good to go now for starting the backend server
    ```
