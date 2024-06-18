@@ -41,38 +41,41 @@ Here are some key features of the Website :
 5. Make sure you have all the dependencies installed
    ```
    > pip install -r requirements.txt
-   > pip install string urllib joblib nltk
-   > pip install numpy flask flask_cors 
+   ```
+   If there is any error , then install dependencies using this -
+   ```
+   > pip install string urllib joblib
+   > pip install flask nltk pickle numpy re os csv flask_cors torch transformers
    ```
 
-6. You are good to go now for starting the backend server
+7. You are good to go now for starting the backend server
    ```
    > python main.py
    ```
 
-7. Now the backend server starts running on the localhost http://127.0.0.1:5000 
+8. Now the backend server starts running on the localhost http://127.0.0.1:5000 
 
-8. Now come out the backend folder
+9. Now come out the backend folder
    ```
    > cd ..
    ```
 
-9. Go inside the Frontend folder
+10. Go inside the Frontend folder
    ```
    > cd Frontend
    ```
 
-10. Now install all the node modules
+11. Now install all the node modules
     ```
     > npm install
     ```
 
-11. Now start the frontend Server
+12. Now start the frontend Server
     ```
     > npm run start
     ```
 
-12. Now the frontend server starts running on the localhost http://127.0.0.1:3000 and you are into the website 
+13. Now the frontend server starts running on the localhost http://127.0.0.1:3000 and you are into the website 
 
 ## Folder Structure 
 The file structure is the following
