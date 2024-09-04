@@ -1,6 +1,6 @@
 # Fake News Detection
 
-(https://www.youtube.com/watch?v=jiv0iyH07x4&t=6s)
+Website Demo - https://www.youtube.com/watch?v=jiv0iyH07x4&t=6s
 
 ## Overview  
 This projects is a submission of Microsoft AI Hackathon 2024 . The topic of fake news detection on social media has recently attracted tremendous attention. The basic countermeasure of comparing websites against a list of labeled fake news sources is inflexible, and so a machine learning approach is desirable.  Our project aims to use Natural Language Processing to detect fake news directly, based on the text content of news articles. 
