@@ -1,7 +1,7 @@
 # Fake News Detection
 
 ## Overview  
-The topic of fake news detection on social media has recently attracted tremendous attention. The basic countermeasure of comparing websites against a list of labeled fake news sources is inflexible, and so a machine learning approach is desirable.  Our project aims to use Natural Language Processing to detect fake news directly, based on the text content of news articles. 
+This projects is a submission of Microsoft AI Hackathon 2024 . The topic of fake news detection on social media has recently attracted tremendous attention. The basic countermeasure of comparing websites against a list of labeled fake news sources is inflexible, and so a machine learning approach is desirable.  Our project aims to use Natural Language Processing to detect fake news directly, based on the text content of news articles. 
 
 ## Problem Definition
 Develop a tool that uses machine learning algorithms to identify and flag misleading or fabricated news articles from online sources. The system should analyze text content, verify sources, and provide users with credibility scores.
