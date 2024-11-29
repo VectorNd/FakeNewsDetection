@@ -5,7 +5,7 @@ Our project leverages **Natural Language Processing (NLP)** and **Machine Learni
 
 Project Demo 🎬 - [Watch on YouTube](https://www.youtube.com/watch?v=jiv0iyH07x4&t=6s)
 
-[![Watch the video]()](https://www.youtube.com/watch?v=jiv0iyH07x4&t=6s)
+[![Watch the video](https://github.com/VectorNd/FakeNewsDetection/blob/main/images/thumbnail.png)](https://www.youtube.com/watch?v=jiv0iyH07x4&t=6s)
 
 ## 🧩 Problem Definition  
 Develop a machine learning-based tool to:  
