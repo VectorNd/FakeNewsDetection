@@ -44,3 +44,21 @@ Develop a machine learning-based tool to:
 ```bash
 git clone https://github.com/VectorNd/FakeNewsDetection.git
 cd FakeNewsDetection
+```
+
+### Start the Backend : 
+```bash
+cd Backend
+pip install -r requirements.txt
+python main.py
+```
+The backend server will start at: http://127.0.0.1:5000.
+
+### Start the Frontend : 
+```bash
+cd Frontend
+npm install
+npm run start
+```
+Now, you can access the Fake News Detection Website at http://127.0.0.1:3000.
+
