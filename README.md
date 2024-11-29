@@ -3,7 +3,7 @@ This project was developed as a submission for **Microsoft AI Hackathon 2024**. 
 
 Our project leverages **Natural Language Processing (NLP)** and **Machine Learning (ML)** to analyze the text content of news articles and determine their credibility.  
 
-Project Demo 🎬 - [Watch on YouTube](https://www.youtube.com/watch?v=jiv0iyH07x4&t=6s)
+Project Demo 🎬 - [Watch Video](https://www.youtube.com/watch?v=jiv0iyH07x4&t=6s)
 
 [![Watch the video](https://github.com/VectorNd/FakeNewsDetection/blob/main/images/thumbnail.png)](https://www.youtube.com/watch?v=jiv0iyH07x4&t=6s)
 
